@@ -1,7 +1,14 @@
 ### JunSeong Lim Info 👋
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=lim3181)](https://solved.ac/lim3181)
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FCNBN&show_icons=true&theme=tokyonight)
+[![Top_lang](https://github-readme-stats.vercel.app/api/top-langs/?username=FCNBN&show_icons=true&theme=tokyonight)](https://github.com/FCNBN)
+
+
 <!--
 **FCNBN/FCNBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
